@@ -2,7 +2,7 @@
 ### Forum-App-React-Frontend 
 
 
-React client that consumes the API: `https://github.com/victorsteven/Forum-App-Go-Backend`
+React client that consumes the API: `https://github.com/scarlett1130/Forum-Go-Backend`
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ React client that consumes the API: `https://github.com/victorsteven/Forum-App-G
 
 #### Clone
 
-- Clone this project to your local machine `https://github.com/victorsteven/Forum-App-React-Frontend.git`
+- Clone this project to your local machine `https://github.com/scarlett1130/Forum-React-Frontend.git`
 
 #### Setup
 
